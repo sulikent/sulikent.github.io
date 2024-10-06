@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sulikent.github.io/sitemap.html.gz
+Sitemap: https://sulikent.github.io/app/sitemap.html.gz
+Sitemap: https://sulikent.github.io/assets/sitemap.html.gz
+Sitemap: https://sulikent.github.io/css/sitemap.html.gz
+Sitemap: https://sulikent.github.io/data/sitemap.html.gz
+Sitemap: https://sulikent.github.io/includes/sitemap.html.gz
+Sitemap: https://sulikent.github.io/item/sitemap.html.gz
+Sitemap: https://sulikent.github.io/src/sitemap.html.gz
